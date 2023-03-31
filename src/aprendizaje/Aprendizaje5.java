@@ -16,7 +16,7 @@ public class Aprendizaje5 {
          int num=leer.nextInt();
          int doble= num*2;
          int triple= num*3;
-         double raizCuadrada= Match.sqrt(num);
+         double raizCuadrada= Math.sqrt(num);
           System.out.println("El doble de " + num + "es" + doble );
           System.out.println("El triple de " + num + "es" + triple);
           System.out.println("La raiz cuadrada de " + num + "es" + raizCuadrada);

@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package aprendizaje;
+package clase9;
 
 /**
  *
  * @author adm_9
  */
-class Match {
+public class AprendizajesExtras3 {
     
 }
